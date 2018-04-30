@@ -1,0 +1,115 @@
+body {
+	margin: 0;
+
+}
+
+
+.header {
+	background: linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
+	height: 30vh;
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	width: 40%;
+	display: inline-block;
+}
+.nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0; 
+}
+
+.nav ul li{
+	display: inline-block;
+}
+
+.nav ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+}
+section {
+	text-align: center;
+}
+.imgs {
+	width: 20%;
+	display: inline-block;
+	text-align: center;
+}
+.imgs img{
+	width: 100;
+	height: 30vh;
+	margin-right: 10%;
+	border-radius: 10%;
+	border-radius: 350%;
+	height: 50vh;
+}
+.s_icon{
+	display: inline-block;
+	width: 30;
+	color: #fff;
+	padding: 10px;
+}
+.s_icon:hover{
+	opacity: 0.5%;
+	transition: opacity.15s ease-in;
+}
+#capa_1{
+	height: 40px;
+	color: #fff;
+}
+.mrPee{
+	padding: 20px;
+	background-color: #000;
+	color:00f;
+	margin: none;
+}
+#rnav{
+	text-align: right;
+}
+.logo {
+	width: 20%;
+	display: inline-block;
+	text-align: center;
+
+}
+.logo img{
+	width: 100%;
+}
+.footer{
+	height: 20%;
+	background-color: #1da1f2
+}
+.links{
+	display: inline-block;
+	width: 30%;
+	vertical-align: bottom;
+}
+.search {
+	display: inline-block;
+	width: 40%;
+}
+.search input {
+	width: 50%;
+	padding: 12px;
+	border-radius: 15px;
+}
+.socials{
+	display: inline-block;
+	width: 30%;
+	vertical-align: bottom;
+}
+
+.socials svg{
+	display: inline-block;
+	width: : 10px;
+	vertical-align: bottom;
+}
+
+.capa_1{
+	height: 5vh;
+	width: 25px;
+}
